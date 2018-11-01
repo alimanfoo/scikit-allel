@@ -64,4 +64,5 @@ example.*
 *.npz
 profdata/*
 temp/*
+allel/version.py
 
